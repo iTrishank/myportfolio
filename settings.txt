@@ -1,0 +1,4 @@
+root: D:\JavaScript_2\portfolio101
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
