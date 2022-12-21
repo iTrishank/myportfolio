@@ -1,16 +1,15 @@
 const header = {
-  
   homepage: 'https://itrishank.github.io/Portfolio101/',
   title: 'त्रिशांक',
 }
 
 const about = {
-  
   name: ' Trishank !',
   role: 'Front Developer',
   description:
     'I have just graduated from Bauman Moscow state technical university in the field of computer science. I decided to go with web development, since I understand that it is impossible to succeed in almost any business without some online presence. Hence, I know the opportunities are there and will stay there. But I am not one who would opt for freelancing, since I do not enjoy that part of the job looking for clients, doing marketing, keeping books. I simply enjoy working on the code, developing beautiful websites, and that is why I am here with you. To my greatest hobbies belongs to playing basketball, reading books, dance, violin, fitness, and cooking.',
-  resume: 'https://drive.google.com/file/d/1oykcknIlRsV-Zm-QxIQroHnlmry35qcf/view?usp=sharing',
+  resume:
+    'https://drive.google.com/file/d/1oykcknIlRsV-Zm-QxIQroHnlmry35qcf/view?usp=sharing',
   social: {
     instagram: 'https://www.instagram.com/trishank_singh/',
     github: 'https://github.com/iTrishank',
@@ -18,7 +17,6 @@ const about = {
 }
 
 const projects = [
-  
   {
     name: 'Crypto Api',
     description:
@@ -43,6 +41,14 @@ const projects = [
     sourceCode: 'https://github.com/iTrishank/ReactQuickSort-WebLab',
     livePreview: 'https://itrishank.github.io/ReactQuickSort-WebLab/',
   },
+  {
+    name: 'GPT-3 (React + Css)',
+    description:
+      'A project that was built using pure React component and containers and CSS stylying',
+    stack: ['HTML', 'CSS', 'React'],
+    sourceCode: 'https://github.com/iTrishank/Reat-Project-1',
+    livePreview: 'https://itrishank.github.io/Reat-Project-1/',
+  },
 ]
 
 const skills = [
@@ -56,11 +62,10 @@ const skills = [
   'Git',
   'CI/CD',
   'Figma',
-  'Adobe XD'
+  'Adobe XD',
 ]
 
 const contact = {
-  
   email: 'trishankwork@gmail.com',
 }
 
