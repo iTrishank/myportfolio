@@ -49,6 +49,14 @@ const projects = [
     sourceCode: 'https://github.com/iTrishank/Reat-Project-1',
     livePreview: 'https://itrishank.github.io/Reat-Project-1/',
   },
+  {
+    name: 'Grace - Restaurant website',
+    description:
+      'Website that was built using pure React component and containers and CSS stylying. Mainly CSS was and props wee the focus for this website.',
+    stack: ['HTML', 'CSS', 'React'],
+    sourceCode: 'https://github.com/iTrishank/React-Project-2',
+    livePreview: 'https://itrishank.github.io/React-Project-2/',
+  },
 ]
 
 const skills = [
